@@ -1,0 +1,12 @@
+.git
+.github
+.venv
+__pycache__
+results
+*.pyc
+*.pyo
+*.pyd
+_Lab1_copy.docx
+_Lab2_copy.docx
+_Lab3_copy.docx
+_MiniProjet_copy.pptx
